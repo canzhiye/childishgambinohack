@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Deep Web Tour": {
+            "applicationId": "xLgOInnG1MOAQCIu3Lvfq9SDcPU4sVcJXv5kzLrz", 
+            "masterKey": "INR5OZwPdZvKmHYzsuAeABxjCLheHHyA3zwkkbwY"
+        }, 
+        "_default": {
+            "link": "Deep Web Tour"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
+    }
+}
